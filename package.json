@@ -1,8 +1,8 @@
 {
-  "name": "trello_board_with_React",
+  "name": "trello_board_with_react",
   "private": true,
   "version": "0.0.1",
-  "description": "Trello board eith React",
+  "description": "Trello board with React",
   "scripts": {
     "lint": "eslint src *.js",
     "start": "node server.js",

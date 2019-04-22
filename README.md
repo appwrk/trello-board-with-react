@@ -1,4 +1,4 @@
-# React Trello Board
+# Trello Board With React
 
 ## Installation
 Firstly make sure that you have [Node](https://nodejs.org/en/download/) and [Git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)  installed.
